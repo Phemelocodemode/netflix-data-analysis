@@ -1,6 +1,6 @@
 # 1️⃣ Netflix Data Analysis
 
-This project explores the Netflix dataset to uncover content trends and patterns. It demonstrates **data cleaning, visualization, and storytelling with data** — essential skills for analytics roles.
+This project explores the Netflix dataset to uncover content trends and patterns. It demonstrates **data cleaning, visualization, and storytelling with data**
 
 ---
 
@@ -17,14 +17,12 @@ This project explores the Netflix dataset to uncover content trends and patterns
 
 ```
 netflix-analysis/
-├─ netflix_titles.csv             # Dataset
-├─ netflix_analysis.ipynb         # Jupyter Notebook (workflow)
+├─ netflix_cleaned.csv             # Dataset
 ├─ netflix_analysis.py            # Python script version
 ├─ README.md                      # Project documentation
 ├─ charts/                        # Visualizations
-│  ├─ movies_vs_tvshows.png
-│  ├─ releases_per_year.png
-│  ├─ top10_genres.png
+│  ├─ titles_per_year.png
+│  ├─ top_countries.png
 ```
 
 ---
