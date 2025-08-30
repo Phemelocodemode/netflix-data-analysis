@@ -1,15 +1,16 @@
-# 1️⃣ Netflix Data Analysis
 
-This project explores the Netflix dataset to uncover content trends and patterns. It demonstrates **data cleaning, visualization, and storytelling with data**
+# 🎬 Netflix Data Analysis
+
+This project explores the Netflix dataset to uncover **content trends and patterns**. It demonstrates **data cleaning, visualization, and storytelling with data** — key skills for analytics roles.
 
 ---
 
 ## 🚀 Project Overview
 
 * Cleaned and analyzed Netflix titles dataset.
-* Explored distribution of Movies vs TV Shows.
-* Identified most common genres.
-* Visualized trends in content production over time.
+* Explored how Netflix content evolved over time.
+* Identified which countries produce the most Netflix titles.
+* Created clear, recruiter-friendly visualizations.
 
 ---
 
@@ -17,10 +18,10 @@ This project explores the Netflix dataset to uncover content trends and patterns
 
 ```
 netflix-analysis/
-├─ netflix_cleaned.csv             # Dataset
-├─ netflix_analysis.py            # Python script version
-├─ README.md                      # Project documentation
-├─ charts/                        # Visualizations
+├─ netflix_cleaned.csv             # Cleaned dataset
+├─ netflix_analysis.py             # Python script version
+├─ README.md                       # Project documentation
+├─ charts/                         # Visualizations
 │  ├─ titles_per_year.png
 │  ├─ top_countries.png
 ```
@@ -29,24 +30,22 @@ netflix-analysis/
 
 ## 📊 Key Visualizations
 
-* **Movies vs TV Shows** → shows dominance of movies in the dataset.
-* **Releases Per Year** → growth of Netflix content over time.
-* **Top 10 Genres** → popular content categories on Netflix.
+* **Titles Per Year** → shows how Netflix content production has grown over time.
+* **Top Countries** → highlights which countries contribute the most content to Netflix.
 
 ---
 
 ## ⚙️ Tech Stack
 
 * **Python** (pandas, matplotlib)
-* **Jupyter Notebook** for EDA
 * **GitHub** for portfolio presentation
 
 ---
 
-## 🔑 Key Takeaways 
+## 🔑 Key Takeaways
 
-* Showcases ability to **analyze real-world datasets**.
-* Demonstrates **data cleaning & visualization** skills.
-* Clear project structure for **reproducibility**.
+* Demonstrates ability to **clean and analyze datasets**.
+* Showcases **visualization skills** applied to real-world data.
+* Clear and reproducible project structure.
 
 ---
