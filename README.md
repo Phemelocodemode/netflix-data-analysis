@@ -52,9 +52,3 @@ netflix-analysis/
 * Clear project structure for **reproducibility**.
 
 ---
-
-
-
-
-
-👉 Do you want me to **zip the polished README.md files** for all 3 repos so you can just drop them in? Or would you prefer me to paste the markdown here so you copy-paste into GitHub directly?
